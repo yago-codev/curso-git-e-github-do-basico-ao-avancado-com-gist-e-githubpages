@@ -1,0 +1,1 @@
+Simulando arquivo sendo editado por outro membro do projeto.
