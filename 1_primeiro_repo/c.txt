@@ -1,3 +1,0 @@
-c
-
-alterando arquivo c.txt do primeiro repo
