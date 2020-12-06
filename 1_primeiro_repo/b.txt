@@ -1,3 +1,0 @@
-b
-
-alterando arquivo b.txt no primeiro repo
