@@ -1,3 +1,0 @@
-Simulando arquivo sendo editado por outro membro do projeto.
-
-editando o arquivo d.txt do primeiro repo
