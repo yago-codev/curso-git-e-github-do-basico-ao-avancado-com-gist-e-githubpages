@@ -3,3 +3,5 @@ b
 b.txt do primeiro repo
 
 b
+
+testando gitignore
